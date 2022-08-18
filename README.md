@@ -1,5 +1,7 @@
+[![MasterHead](https://www.freepik.com/free-vector/programmers-working-project-illustration_10780467.htm#query=devops&position=22&from_view=keyword)]
 <h1 align="center">Hi 👋, I'm Ishu Rusia</h1>
 <h3 align="center">A passionate Computer Science Engineering student from India</h3>
+<img align="right" alt="coding" width="400" src="https://www.freepik.com/free-vector/programmers-working-project-illustration_10780467.htm#query=devops&position=22&from_view=keyword">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishurusia07&label=Profile%20views&color=0e75b6&style=flat" alt="ishurusia07" /> </p>
 
