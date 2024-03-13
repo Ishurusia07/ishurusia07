@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ishu Rusia</h1>
-<h3 align="center">A passionate Computer Science Engineering student from India</h3>
+<h3 align="center">I'm a DevOps Engineer with 1+ year of Experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishurusia07&label=Profile%20views&color=0e75b6&style=flat" alt="ishurusia07" /> </p>
 
